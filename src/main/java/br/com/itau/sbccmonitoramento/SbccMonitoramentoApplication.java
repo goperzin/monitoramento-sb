@@ -10,7 +10,9 @@ import de.codecentric.boot.admin.server.config.EnableAdminServer;
 public class SbccMonitoramentoApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(SbccMonitoramentoApplication.class, args);
+		
 	}
 
 }
